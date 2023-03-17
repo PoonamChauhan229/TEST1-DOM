@@ -22,3 +22,6 @@ label {
 
 input[type=text], input[type=radio], input[type=checkbox], select {
 }
+.mainContainer{
+	display: flex;
+}
